@@ -1,4 +1,4 @@
-# Graphene OS awesome-wallpapers
+# Graphene OS Awesome Wallpapers
 
 A collection of cool, custom-designed wallpapers with [Graphene OS's branding](https://grapheneos.org/)!
 

@@ -1,6 +1,6 @@
-# Graphene OS Awesome Wallpapers
+# OS Awesome Wallpapers
 
-A collection of cool, custom-designed wallpapers with [Graphene OS's branding](https://grapheneos.org/)!
+A collection of cool, custom-designed wallpapers!
 
 This project, a fork of [Ayushman Tiwari's work on GitLab](https://gitlab.com/ayushmantiwari/awesome-wallpapers), features unique wallpapers showcasing OS logos. Whether you're a fan of Linux, Windows or macOS, you'll find something here.
 

@@ -1,4 +1,4 @@
-# OS Awesome Wallpapers
+# Awesome OS Wallpapers
 
 A collection of cool, custom-designed wallpapers!
 
